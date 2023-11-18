@@ -1,2 +1,2 @@
 SELECT * FROM students
-WHERE city = ('Philadelphia', 'Trenton');
+WHERE city IN ('Philadelphia', 'Trenton');

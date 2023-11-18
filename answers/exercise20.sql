@@ -1,1 +1,1 @@
-DELETE FROM students;
+TRUNCATE students;

@@ -1,3 +1,3 @@
 UPDATE students
 SET city = 'Edinburgh', country = 'Scotland'
-WHERE id = 35;
+WHERE id IS 35;

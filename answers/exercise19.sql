@@ -1,2 +1,2 @@
 DELETE FROM students
-WHERE country = 'Scotland';
+WHERE country IS 'Scotland';

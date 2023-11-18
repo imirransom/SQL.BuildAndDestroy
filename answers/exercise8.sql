@@ -7,4 +7,4 @@ CREATE TABLE students (
 );
 
 INSERT INTO students (studentName, address, city, postalCode, country)
-VALUES ('Jane Doe', '57 Union St', "Glasgow, Scotland", "G13RB");
+VALUES ('Jane Doe', '57 Union St', 'Glasgow', 'G13RB', 'Scotland');
